@@ -44,15 +44,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "12694C23-6229-4817-A374-A5249FA90E82"
     },
     {
-      "class": "bitmap",
-      "id": "9AA64A9F-082D-49EB-82AB-5AB3746D551E"
+      "class": "group",
+      "id": "A12953B5-A61C-4305-ADF5-FF6ABA421802"
     }
   ],
   "name": "Artboard",
